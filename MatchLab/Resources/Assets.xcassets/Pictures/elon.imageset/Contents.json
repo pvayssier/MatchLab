@@ -1,6 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
+      "filename" : "elon.jpg",
       "idiom" : "universal"
     }
   ],
